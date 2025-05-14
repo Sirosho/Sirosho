@@ -4,10 +4,10 @@
 <br><br><br><br>
 
 
-![승현's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sirosho&show_icons=true&theme=radical)
+![승현's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sirosho&show_icons=true&theme=ocean_dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirosho&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirosho&layout=compact&theme=ocean_dark)
 
 <br>
 <br>
